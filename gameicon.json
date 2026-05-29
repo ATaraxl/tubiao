@@ -1,0 +1,2302 @@
+{
+  "name": "Game Icon Pack",
+  "description": "570+ rounded style icons，SVG icons from Nieobie/Game-Icon-Pack.",
+  "icons": [
+    {
+      "name": "adjustment",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/adjustment.svg"
+    },
+    {
+      "name": "ban",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/ban.svg"
+    },
+    {
+      "name": "circle_ring",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/circle-ring.svg"
+    },
+    {
+      "name": "cross",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/cross.svg"
+    },
+    {
+      "name": "dark_mode",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/dark-mode.svg"
+    },
+    {
+      "name": "dark_mode2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/dark-mode2.svg"
+    },
+    {
+      "name": "exclamation_double",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/exclamation-double.svg"
+    },
+    {
+      "name": "exclamation",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/exclamation.svg"
+    },
+    {
+      "name": "expand",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/expand.svg"
+    },
+    {
+      "name": "expand2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/expand2.svg"
+    },
+    {
+      "name": "expand3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/expand3.svg"
+    },
+    {
+      "name": "expand4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/expand4.svg"
+    },
+    {
+      "name": "friends",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/friends.svg"
+    },
+    {
+      "name": "grid_add",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/grid-add.svg"
+    },
+    {
+      "name": "grid",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/grid.svg"
+    },
+    {
+      "name": "grid2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/grid2.svg"
+    },
+    {
+      "name": "grid3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/grid3.svg"
+    },
+    {
+      "name": "grid4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/grid4.svg"
+    },
+    {
+      "name": "grid5",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/grid5.svg"
+    },
+    {
+      "name": "grid6",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/grid6.svg"
+    },
+    {
+      "name": "grid7",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/grid7.svg"
+    },
+    {
+      "name": "info",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/info.svg"
+    },
+    {
+      "name": "invisible",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/invisible.svg"
+    },
+    {
+      "name": "light_mode",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/light-mode.svg"
+    },
+    {
+      "name": "light_mode2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/light-mode2.svg"
+    },
+    {
+      "name": "loading",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/loading.svg"
+    },
+    {
+      "name": "loading2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/loading2.svg"
+    },
+    {
+      "name": "loading3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/loading3.svg"
+    },
+    {
+      "name": "loading4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/loading4.svg"
+    },
+    {
+      "name": "loading5",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/loading5.svg"
+    },
+    {
+      "name": "lock",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/lock.svg"
+    },
+    {
+      "name": "menu_add",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/menu-add.svg"
+    },
+    {
+      "name": "menu_open",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/menu-open.svg"
+    },
+    {
+      "name": "menu",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/menu.svg"
+    },
+    {
+      "name": "menu2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/menu2.svg"
+    },
+    {
+      "name": "menu3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/menu3.svg"
+    },
+    {
+      "name": "menu4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/menu4.svg"
+    },
+    {
+      "name": "menu5",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/menu5.svg"
+    },
+    {
+      "name": "menu6",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/menu6.svg"
+    },
+    {
+      "name": "menu7",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/menu7.svg"
+    },
+    {
+      "name": "progress",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/progress.svg"
+    },
+    {
+      "name": "query",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/query.svg"
+    },
+    {
+      "name": "refresh",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/refresh.svg"
+    },
+    {
+      "name": "rest",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/rest.svg"
+    },
+    {
+      "name": "restore",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/restore.svg"
+    },
+    {
+      "name": "restore2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/restore2.svg"
+    },
+    {
+      "name": "restore3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/restore3.svg"
+    },
+    {
+      "name": "restore4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/restore4.svg"
+    },
+    {
+      "name": "rotate_left",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/rotate-left.svg"
+    },
+    {
+      "name": "rotate_right",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/rotate-right.svg"
+    },
+    {
+      "name": "save",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/save.svg"
+    },
+    {
+      "name": "search",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/search.svg"
+    },
+    {
+      "name": "settings",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/settings.svg"
+    },
+    {
+      "name": "settings2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/settings2.svg"
+    },
+    {
+      "name": "slider",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/slider.svg"
+    },
+    {
+      "name": "tick",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/tick.svg"
+    },
+    {
+      "name": "toggle_off",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/toggle-off.svg"
+    },
+    {
+      "name": "toggle_on",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/toggle-on.svg"
+    },
+    {
+      "name": "toggle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/toggle.svg"
+    },
+    {
+      "name": "ui",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/ui.svg"
+    },
+    {
+      "name": "unlock",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/unlock.svg"
+    },
+    {
+      "name": "user_add",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/user-add.svg"
+    },
+    {
+      "name": "user_alert",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/user-alert.svg"
+    },
+    {
+      "name": "user_avatar",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/user-avatar.svg"
+    },
+    {
+      "name": "user_avatar2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/user-avatar2.svg"
+    },
+    {
+      "name": "user_check",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/user-check.svg"
+    },
+    {
+      "name": "user_delete",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/user-delete.svg"
+    },
+    {
+      "name": "user_group",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/user-group.svg"
+    },
+    {
+      "name": "user_list",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/user-list.svg"
+    },
+    {
+      "name": "user_remove",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/user-remove.svg"
+    },
+    {
+      "name": "user",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/user.svg"
+    },
+    {
+      "name": "visible",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/visible.svg"
+    },
+    {
+      "name": "zoom_in",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/zoom-in.svg"
+    },
+    {
+      "name": "zoom_out",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/1.UI/zoom-out.svg"
+    },
+    {
+      "name": "audio_waves",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/audio-waves.svg"
+    },
+    {
+      "name": "battery_negative",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/battery-negative.svg"
+    },
+    {
+      "name": "battery_positive",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/battery-positive.svg"
+    },
+    {
+      "name": "bookmark",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/bookmark.svg"
+    },
+    {
+      "name": "bt",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/bt.svg"
+    },
+    {
+      "name": "bug",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/bug.svg"
+    },
+    {
+      "name": "calendar",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/calendar.svg"
+    },
+    {
+      "name": "camera",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/camera.svg"
+    },
+    {
+      "name": "classic_tv",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/classic-tv.svg"
+    },
+    {
+      "name": "clock",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/clock.svg"
+    },
+    {
+      "name": "cloud_download",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/cloud-download.svg"
+    },
+    {
+      "name": "cloud_upload",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/cloud-upload.svg"
+    },
+    {
+      "name": "code",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/code.svg"
+    },
+    {
+      "name": "computer_host",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/computer-host.svg"
+    },
+    {
+      "name": "connection",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/connection.svg"
+    },
+    {
+      "name": "credit_card",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/credit-card.svg"
+    },
+    {
+      "name": "dislike",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/dislike.svg"
+    },
+    {
+      "name": "display",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/display.svg"
+    },
+    {
+      "name": "document",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/document.svg"
+    },
+    {
+      "name": "download",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/download.svg"
+    },
+    {
+      "name": "earth",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/earth.svg"
+    },
+    {
+      "name": "export",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/export.svg"
+    },
+    {
+      "name": "fast_forward",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/fast-forward.svg"
+    },
+    {
+      "name": "fast_rewind",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/fast-rewind.svg"
+    },
+    {
+      "name": "file",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/file.svg"
+    },
+    {
+      "name": "film",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/film.svg"
+    },
+    {
+      "name": "first_frame",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/first-frame.svg"
+    },
+    {
+      "name": "flashdisk",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/flashdisk.svg"
+    },
+    {
+      "name": "folder",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/folder.svg"
+    },
+    {
+      "name": "gamepad",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/gamepad.svg"
+    },
+    {
+      "name": "headset",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/headset.svg"
+    },
+    {
+      "name": "image",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/image.svg"
+    },
+    {
+      "name": "import",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/import.svg"
+    },
+    {
+      "name": "internet",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/internet.svg"
+    },
+    {
+      "name": "keyboard",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/keyboard.svg"
+    },
+    {
+      "name": "laptop",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/laptop.svg"
+    },
+    {
+      "name": "last_frame",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/last-frame.svg"
+    },
+    {
+      "name": "light",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/light.svg"
+    },
+    {
+      "name": "like",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/like.svg"
+    },
+    {
+      "name": "link",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/link.svg"
+    },
+    {
+      "name": "live",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/live.svg"
+    },
+    {
+      "name": "live2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/live2.svg"
+    },
+    {
+      "name": "location",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/location.svg"
+    },
+    {
+      "name": "mail",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/mail.svg"
+    },
+    {
+      "name": "memory_card",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/memory-card.svg"
+    },
+    {
+      "name": "mention",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/mention.svg"
+    },
+    {
+      "name": "message",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/message.svg"
+    },
+    {
+      "name": "message2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/message2.svg"
+    },
+    {
+      "name": "mic",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/mic.svg"
+    },
+    {
+      "name": "microchip",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/microchip.svg"
+    },
+    {
+      "name": "mobile_data",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/mobile-data.svg"
+    },
+    {
+      "name": "mobile_phone",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/mobile-phone.svg"
+    },
+    {
+      "name": "mouse",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/mouse.svg"
+    },
+    {
+      "name": "music",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/music.svg"
+    },
+    {
+      "name": "music2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/music2.svg"
+    },
+    {
+      "name": "mute",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/mute.svg"
+    },
+    {
+      "name": "next_frame",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/next-frame.svg"
+    },
+    {
+      "name": "next",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/next.svg"
+    },
+    {
+      "name": "no_music",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/no-music.svg"
+    },
+    {
+      "name": "no_music2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/no-music2.svg"
+    },
+    {
+      "name": "notification",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/notification.svg"
+    },
+    {
+      "name": "pause",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/pause.svg"
+    },
+    {
+      "name": "phone",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/phone.svg"
+    },
+    {
+      "name": "play",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/play.svg"
+    },
+    {
+      "name": "power_switch",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/power-switch.svg"
+    },
+    {
+      "name": "previous_frame",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/previous-frame.svg"
+    },
+    {
+      "name": "previous",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/previous.svg"
+    },
+    {
+      "name": "protect",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/protect.svg"
+    },
+    {
+      "name": "qr",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/qr.svg"
+    },
+    {
+      "name": "record",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/record.svg"
+    },
+    {
+      "name": "recording",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/recording.svg"
+    },
+    {
+      "name": "share",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/share.svg"
+    },
+    {
+      "name": "share2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/share2.svg"
+    },
+    {
+      "name": "silent",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/silent.svg"
+    },
+    {
+      "name": "stop",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/stop.svg"
+    },
+    {
+      "name": "tablet",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/tablet.svg"
+    },
+    {
+      "name": "tag",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/tag.svg"
+    },
+    {
+      "name": "time",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/time.svg"
+    },
+    {
+      "name": "trash",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/trash.svg"
+    },
+    {
+      "name": "upload",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/upload.svg"
+    },
+    {
+      "name": "video",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/video.svg"
+    },
+    {
+      "name": "volume",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/volume.svg"
+    },
+    {
+      "name": "watch",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/watch.svg"
+    },
+    {
+      "name": "webcam",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/webcam.svg"
+    },
+    {
+      "name": "wifi",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/2.Media%20%26%20Technology/wifi.svg"
+    },
+    {
+      "name": "align_bottom",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-bottom.svg"
+    },
+    {
+      "name": "align_bottom2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-bottom2.svg"
+    },
+    {
+      "name": "align_horizontal_centers",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-horizontal-centers.svg"
+    },
+    {
+      "name": "align_horizontal_centers2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-horizontal-centers2.svg"
+    },
+    {
+      "name": "align_left",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-left.svg"
+    },
+    {
+      "name": "align_left2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-left2.svg"
+    },
+    {
+      "name": "align_right",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-right.svg"
+    },
+    {
+      "name": "align_right2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-right2.svg"
+    },
+    {
+      "name": "align_top",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-top.svg"
+    },
+    {
+      "name": "align_top2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-top2.svg"
+    },
+    {
+      "name": "align_vertical_centers",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-vertical-centers.svg"
+    },
+    {
+      "name": "align_vertical_centers2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/align-vertical-centers2.svg"
+    },
+    {
+      "name": "bold",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/bold.svg"
+    },
+    {
+      "name": "brush",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/brush.svg"
+    },
+    {
+      "name": "copy",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/copy.svg"
+    },
+    {
+      "name": "cursor_alternate_select",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-alternate-select.svg"
+    },
+    {
+      "name": "cursor_busy",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-busy.svg"
+    },
+    {
+      "name": "cursor_busy2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-busy2.svg"
+    },
+    {
+      "name": "cursor_busy3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-busy3.svg"
+    },
+    {
+      "name": "cursor_default",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-default.svg"
+    },
+    {
+      "name": "cursor_default2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-default2.svg"
+    },
+    {
+      "name": "cursor_diagonal_resize",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-diagonal-resize.svg"
+    },
+    {
+      "name": "cursor_diagonal_resize2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-diagonal-resize2.svg"
+    },
+    {
+      "name": "cursor_help",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-help.svg"
+    },
+    {
+      "name": "cursor_help2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-help2.svg"
+    },
+    {
+      "name": "cursor_horizontal_resize",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-horizontal-resize.svg"
+    },
+    {
+      "name": "cursor_link",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-link.svg"
+    },
+    {
+      "name": "cursor_loading",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-loading.svg"
+    },
+    {
+      "name": "cursor_loading2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-loading2.svg"
+    },
+    {
+      "name": "cursor_move",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-move.svg"
+    },
+    {
+      "name": "cursor_pen",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-pen.svg"
+    },
+    {
+      "name": "cursor_precision_select",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-precision-select.svg"
+    },
+    {
+      "name": "cursor_text_select",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-text-select.svg"
+    },
+    {
+      "name": "cursor_unavailable",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-unavailable.svg"
+    },
+    {
+      "name": "cursor_unavailable2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-unavailable2.svg"
+    },
+    {
+      "name": "cursor_vertical_resize",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/cursor-vertical-resize.svg"
+    },
+    {
+      "name": "eraser",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/eraser.svg"
+    },
+    {
+      "name": "eyedropper",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/eyedropper.svg"
+    },
+    {
+      "name": "fill",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/fill.svg"
+    },
+    {
+      "name": "font",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/font.svg"
+    },
+    {
+      "name": "font2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/font2.svg"
+    },
+    {
+      "name": "frame",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/frame.svg"
+    },
+    {
+      "name": "italic",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/italic.svg"
+    },
+    {
+      "name": "outline",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/outline.svg"
+    },
+    {
+      "name": "paintbrush",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/paintbrush.svg"
+    },
+    {
+      "name": "palette",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/palette.svg"
+    },
+    {
+      "name": "pen",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/pen.svg"
+    },
+    {
+      "name": "pencil",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/pencil.svg"
+    },
+    {
+      "name": "redo",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/redo.svg"
+    },
+    {
+      "name": "select",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/select.svg"
+    },
+    {
+      "name": "split",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/split.svg"
+    },
+    {
+      "name": "strikethrough",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/strikethrough.svg"
+    },
+    {
+      "name": "text",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/text.svg"
+    },
+    {
+      "name": "underline",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/underline.svg"
+    },
+    {
+      "name": "undo",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/3.Editing%20Tools/undo.svg"
+    },
+    {
+      "name": "123",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/123.svg"
+    },
+    {
+      "name": "a",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/a.svg"
+    },
+    {
+      "name": "abc",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/abc.svg"
+    },
+    {
+      "name": "acute_triangle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/acute-triangle.svg"
+    },
+    {
+      "name": "approximately_equal",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/approximately-equal.svg"
+    },
+    {
+      "name": "arrow_down",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-down.svg"
+    },
+    {
+      "name": "arrow_down2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-down2.svg"
+    },
+    {
+      "name": "arrow_down3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-down3.svg"
+    },
+    {
+      "name": "arrow_left",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-left.svg"
+    },
+    {
+      "name": "arrow_left2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-left2.svg"
+    },
+    {
+      "name": "arrow_left3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-left3.svg"
+    },
+    {
+      "name": "arrow_right",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-right.svg"
+    },
+    {
+      "name": "arrow_right2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-right2.svg"
+    },
+    {
+      "name": "arrow_right3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-right3.svg"
+    },
+    {
+      "name": "arrow_up",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-up.svg"
+    },
+    {
+      "name": "arrow_up2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-up2.svg"
+    },
+    {
+      "name": "arrow_up3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/arrow-up3.svg"
+    },
+    {
+      "name": "b",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/b.svg"
+    },
+    {
+      "name": "bitcoin",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/bitcoin.svg"
+    },
+    {
+      "name": "c",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/c.svg"
+    },
+    {
+      "name": "capsule",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/capsule.svg"
+    },
+    {
+      "name": "circle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/circle.svg"
+    },
+    {
+      "name": "cny_jpy",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/cny-jpy.svg"
+    },
+    {
+      "name": "d",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/d.svg"
+    },
+    {
+      "name": "division",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/division.svg"
+    },
+    {
+      "name": "division2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/division2.svg"
+    },
+    {
+      "name": "e",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/e.svg"
+    },
+    {
+      "name": "ease_in_out",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/ease-in-out.svg"
+    },
+    {
+      "name": "ease_in",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/ease-in.svg"
+    },
+    {
+      "name": "ease_out",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/ease-out.svg"
+    },
+    {
+      "name": "eight",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/eight.svg"
+    },
+    {
+      "name": "ellipse",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/ellipse.svg"
+    },
+    {
+      "name": "emoji",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji.svg"
+    },
+    {
+      "name": "emoji10",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji10.svg"
+    },
+    {
+      "name": "emoji11",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji11.svg"
+    },
+    {
+      "name": "emoji12",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji12.svg"
+    },
+    {
+      "name": "emoji13",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji13.svg"
+    },
+    {
+      "name": "emoji14",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji14.svg"
+    },
+    {
+      "name": "emoji15",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji15.svg"
+    },
+    {
+      "name": "emoji16",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji16.svg"
+    },
+    {
+      "name": "emoji17",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji17.svg"
+    },
+    {
+      "name": "emoji18",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji18.svg"
+    },
+    {
+      "name": "emoji19",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji19.svg"
+    },
+    {
+      "name": "emoji2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji2.svg"
+    },
+    {
+      "name": "emoji20",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji20.svg"
+    },
+    {
+      "name": "emoji3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji3.svg"
+    },
+    {
+      "name": "emoji4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji4.svg"
+    },
+    {
+      "name": "emoji5",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji5.svg"
+    },
+    {
+      "name": "emoji6",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji6.svg"
+    },
+    {
+      "name": "emoji7",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji7.svg"
+    },
+    {
+      "name": "emoji8",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji8.svg"
+    },
+    {
+      "name": "emoji9",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/emoji9.svg"
+    },
+    {
+      "name": "equals",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/equals.svg"
+    },
+    {
+      "name": "equilateral_triangle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/equilateral-triangle.svg"
+    },
+    {
+      "name": "eur",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/eur.svg"
+    },
+    {
+      "name": "f",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/f.svg"
+    },
+    {
+      "name": "five_pointed_star",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/five-pointed-star.svg"
+    },
+    {
+      "name": "five",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/five.svg"
+    },
+    {
+      "name": "four_pointed_star",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/four-pointed-star.svg"
+    },
+    {
+      "name": "four",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/four.svg"
+    },
+    {
+      "name": "function",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/function.svg"
+    },
+    {
+      "name": "g",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/g.svg"
+    },
+    {
+      "name": "gbp",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/gbp.svg"
+    },
+    {
+      "name": "greater_than_or_equal",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/greater-than-or-equal.svg"
+    },
+    {
+      "name": "greater_than",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/greater-than.svg"
+    },
+    {
+      "name": "h",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/h.svg"
+    },
+    {
+      "name": "heptagon",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/heptagon.svg"
+    },
+    {
+      "name": "hexagon",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/hexagon.svg"
+    },
+    {
+      "name": "i",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/i.svg"
+    },
+    {
+      "name": "infinity",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/infinity.svg"
+    },
+    {
+      "name": "inr",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/inr.svg"
+    },
+    {
+      "name": "j",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/j.svg"
+    },
+    {
+      "name": "k",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/k.svg"
+    },
+    {
+      "name": "krw",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/krw.svg"
+    },
+    {
+      "name": "l",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/l.svg"
+    },
+    {
+      "name": "less_than_or_equal",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/less-than-or-equal.svg"
+    },
+    {
+      "name": "less_than",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/less-than.svg"
+    },
+    {
+      "name": "linear",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/linear.svg"
+    },
+    {
+      "name": "m",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/m.svg"
+    },
+    {
+      "name": "minus",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/minus.svg"
+    },
+    {
+      "name": "multiplication",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/multiplication.svg"
+    },
+    {
+      "name": "multiplication2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/multiplication2.svg"
+    },
+    {
+      "name": "multiplication3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/multiplication3.svg"
+    },
+    {
+      "name": "n",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/n.svg"
+    },
+    {
+      "name": "ngn",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/ngn.svg"
+    },
+    {
+      "name": "nine",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/nine.svg"
+    },
+    {
+      "name": "not_equal",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/not-equal.svg"
+    },
+    {
+      "name": "o",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/o.svg"
+    },
+    {
+      "name": "obtuse_triangle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/obtuse-triangle.svg"
+    },
+    {
+      "name": "one",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/one.svg"
+    },
+    {
+      "name": "p",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/p.svg"
+    },
+    {
+      "name": "parallelogram",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/parallelogram.svg"
+    },
+    {
+      "name": "pentagon",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/pentagon.svg"
+    },
+    {
+      "name": "percent",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/percent.svg"
+    },
+    {
+      "name": "pi",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/pi.svg"
+    },
+    {
+      "name": "plus",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/plus.svg"
+    },
+    {
+      "name": "q",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/q.svg"
+    },
+    {
+      "name": "quadrilateral",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/quadrilateral.svg"
+    },
+    {
+      "name": "quarter_circle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/quarter-circle.svg"
+    },
+    {
+      "name": "r",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/r.svg"
+    },
+    {
+      "name": "rectangle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/rectangle.svg"
+    },
+    {
+      "name": "rhombus",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/rhombus.svg"
+    },
+    {
+      "name": "right_trapezoid",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/right-trapezoid.svg"
+    },
+    {
+      "name": "rub",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/rub.svg"
+    },
+    {
+      "name": "s",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/s.svg"
+    },
+    {
+      "name": "semicircle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/semicircle.svg"
+    },
+    {
+      "name": "seven_pointed_star",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/seven-pointed-star.svg"
+    },
+    {
+      "name": "seven",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/seven.svg"
+    },
+    {
+      "name": "six_pointed_star",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/six-pointed-star.svg"
+    },
+    {
+      "name": "six",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/six.svg"
+    },
+    {
+      "name": "square_root",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/square-root.svg"
+    },
+    {
+      "name": "square",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/square.svg"
+    },
+    {
+      "name": "t",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/t.svg"
+    },
+    {
+      "name": "thb",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/thb.svg"
+    },
+    {
+      "name": "three_pointed_star",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/three-pointed-star.svg"
+    },
+    {
+      "name": "three_quarter_circle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/three-quarter-circle.svg"
+    },
+    {
+      "name": "three",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/three.svg"
+    },
+    {
+      "name": "trapezoid",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/trapezoid.svg"
+    },
+    {
+      "name": "triangle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/triangle.svg"
+    },
+    {
+      "name": "try",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/try.svg"
+    },
+    {
+      "name": "two",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/two.svg"
+    },
+    {
+      "name": "u",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/u.svg"
+    },
+    {
+      "name": "usd",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/usd.svg"
+    },
+    {
+      "name": "usd2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/usd2.svg"
+    },
+    {
+      "name": "v",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/v.svg"
+    },
+    {
+      "name": "w",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/w.svg"
+    },
+    {
+      "name": "x",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/x.svg"
+    },
+    {
+      "name": "y",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/y.svg"
+    },
+    {
+      "name": "yen",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/yen.svg"
+    },
+    {
+      "name": "yuan",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/yuan.svg"
+    },
+    {
+      "name": "z",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/z.svg"
+    },
+    {
+      "name": "zero",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/4.Shapes%20%26%20Symbol/zero.svg"
+    },
+    {
+      "name": "bank",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/bank.svg"
+    },
+    {
+      "name": "boss",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/boss.svg"
+    },
+    {
+      "name": "card",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/card.svg"
+    },
+    {
+      "name": "cards",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/cards.svg"
+    },
+    {
+      "name": "character",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/character.svg"
+    },
+    {
+      "name": "club_card",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/club-card.svg"
+    },
+    {
+      "name": "clubs",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/clubs.svg"
+    },
+    {
+      "name": "death",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/death.svg"
+    },
+    {
+      "name": "diamond_card",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/diamond-card.svg"
+    },
+    {
+      "name": "diamonds",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/diamonds.svg"
+    },
+    {
+      "name": "dice_pair",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/dice-pair.svg"
+    },
+    {
+      "name": "dice",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/dice.svg"
+    },
+    {
+      "name": "dice2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/dice2.svg"
+    },
+    {
+      "name": "dice3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/dice3.svg"
+    },
+    {
+      "name": "dice4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/dice4.svg"
+    },
+    {
+      "name": "dice5",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/dice5.svg"
+    },
+    {
+      "name": "dice6",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/dice6.svg"
+    },
+    {
+      "name": "double",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/double.svg"
+    },
+    {
+      "name": "experience",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/experience.svg"
+    },
+    {
+      "name": "female",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/female.svg"
+    },
+    {
+      "name": "ghost",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/ghost.svg"
+    },
+    {
+      "name": "halloween",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/halloween.svg"
+    },
+    {
+      "name": "heart_card",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/heart-card.svg"
+    },
+    {
+      "name": "heart",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/heart.svg"
+    },
+    {
+      "name": "hearts",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/hearts.svg"
+    },
+    {
+      "name": "hit_effect",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/hit-effect.svg"
+    },
+    {
+      "name": "house",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/house.svg"
+    },
+    {
+      "name": "house2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/house2.svg"
+    },
+    {
+      "name": "house3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/house3.svg"
+    },
+    {
+      "name": "house4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/house4.svg"
+    },
+    {
+      "name": "i_tetris_i",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/i-tetris-i.svg"
+    },
+    {
+      "name": "j_tetris_j",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/j-tetris-j.svg"
+    },
+    {
+      "name": "l_tetris_l",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/l-tetris-l.svg"
+    },
+    {
+      "name": "level",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/level.svg"
+    },
+    {
+      "name": "male",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/male.svg"
+    },
+    {
+      "name": "o_tetris_o",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/o-tetris-o.svg"
+    },
+    {
+      "name": "onefold",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/onefold.svg"
+    },
+    {
+      "name": "puzzle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle.svg"
+    },
+    {
+      "name": "puzzle10",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle10.svg"
+    },
+    {
+      "name": "puzzle11",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle11.svg"
+    },
+    {
+      "name": "puzzle12",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle12.svg"
+    },
+    {
+      "name": "puzzle2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle2.svg"
+    },
+    {
+      "name": "puzzle3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle3.svg"
+    },
+    {
+      "name": "puzzle4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle4.svg"
+    },
+    {
+      "name": "puzzle5",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle5.svg"
+    },
+    {
+      "name": "puzzle6",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle6.svg"
+    },
+    {
+      "name": "puzzle7",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle7.svg"
+    },
+    {
+      "name": "puzzle8",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle8.svg"
+    },
+    {
+      "name": "puzzle9",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/puzzle9.svg"
+    },
+    {
+      "name": "random_dice",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/random-dice.svg"
+    },
+    {
+      "name": "ranking",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/ranking.svg"
+    },
+    {
+      "name": "s_tetris_s",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/s-tetris-s.svg"
+    },
+    {
+      "name": "shop",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/shop.svg"
+    },
+    {
+      "name": "six_sided_dice",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/six-sided-dice.svg"
+    },
+    {
+      "name": "six_sided_dice2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/six-sided-dice2.svg"
+    },
+    {
+      "name": "six_sided_dice3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/six-sided-dice3.svg"
+    },
+    {
+      "name": "six_sided_dice4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/six-sided-dice4.svg"
+    },
+    {
+      "name": "six_sided_dice5",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/six-sided-dice5.svg"
+    },
+    {
+      "name": "six_sided_dice6",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/six-sided-dice6.svg"
+    },
+    {
+      "name": "skull",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/skull.svg"
+    },
+    {
+      "name": "spade_card",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/spade-card.svg"
+    },
+    {
+      "name": "spades",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/spades.svg"
+    },
+    {
+      "name": "stamina",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/stamina.svg"
+    },
+    {
+      "name": "t_tetris_t",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/t-tetris-t.svg"
+    },
+    {
+      "name": "tent",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/tent.svg"
+    },
+    {
+      "name": "tower",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/tower.svg"
+    },
+    {
+      "name": "tower2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/tower2.svg"
+    },
+    {
+      "name": "tower3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/tower3.svg"
+    },
+    {
+      "name": "tower4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/tower4.svg"
+    },
+    {
+      "name": "tower5",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/tower5.svg"
+    },
+    {
+      "name": "tower6",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/tower6.svg"
+    },
+    {
+      "name": "town",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/town.svg"
+    },
+    {
+      "name": "triple",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/triple.svg"
+    },
+    {
+      "name": "trophy",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/trophy.svg"
+    },
+    {
+      "name": "village",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/village.svg"
+    },
+    {
+      "name": "z_tetris_z",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/5.Game/z-tetris-z.svg"
+    },
+    {
+      "name": "anchor",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/anchor.svg"
+    },
+    {
+      "name": "anvil",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/anvil.svg"
+    },
+    {
+      "name": "arrow",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/arrow.svg"
+    },
+    {
+      "name": "attach",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/attach.svg"
+    },
+    {
+      "name": "axe",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/axe.svg"
+    },
+    {
+      "name": "backpack",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/backpack.svg"
+    },
+    {
+      "name": "bomb",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/bomb.svg"
+    },
+    {
+      "name": "bone",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/bone.svg"
+    },
+    {
+      "name": "book",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/book.svg"
+    },
+    {
+      "name": "boot",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/boot.svg"
+    },
+    {
+      "name": "boots",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/boots.svg"
+    },
+    {
+      "name": "bow",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/bow.svg"
+    },
+    {
+      "name": "broadsword",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/broadsword.svg"
+    },
+    {
+      "name": "broadsword2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/broadsword2.svg"
+    },
+    {
+      "name": "bullet",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/bullet.svg"
+    },
+    {
+      "name": "bullhorn",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/bullhorn.svg"
+    },
+    {
+      "name": "chest",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/chest.svg"
+    },
+    {
+      "name": "coin",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/coin.svg"
+    },
+    {
+      "name": "compass",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/compass.svg"
+    },
+    {
+      "name": "crown",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/crown.svg"
+    },
+    {
+      "name": "crystal_ball",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/crystal-ball.svg"
+    },
+    {
+      "name": "cuirass",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/cuirass.svg"
+    },
+    {
+      "name": "dagger",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/dagger.svg"
+    },
+    {
+      "name": "diamond",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/diamond.svg"
+    },
+    {
+      "name": "fishhook",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/fishhook.svg"
+    },
+    {
+      "name": "fishing_rod",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/fishing-rod.svg"
+    },
+    {
+      "name": "funnel",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/funnel.svg"
+    },
+    {
+      "name": "gravestone",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/gravestone.svg"
+    },
+    {
+      "name": "greave",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/greave.svg"
+    },
+    {
+      "name": "hammer",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/hammer.svg"
+    },
+    {
+      "name": "hammer2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/hammer2.svg"
+    },
+    {
+      "name": "hayfork",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/hayfork.svg"
+    },
+    {
+      "name": "helmet",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/helmet.svg"
+    },
+    {
+      "name": "helmet2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/helmet2.svg"
+    },
+    {
+      "name": "helmet3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/helmet3.svg"
+    },
+    {
+      "name": "ingot",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/ingot.svg"
+    },
+    {
+      "name": "key",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/key.svg"
+    },
+    {
+      "name": "lantern",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/lantern.svg"
+    },
+    {
+      "name": "lantern2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/lantern2.svg"
+    },
+    {
+      "name": "lantern3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/lantern3.svg"
+    },
+    {
+      "name": "lantern4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/lantern4.svg"
+    },
+    {
+      "name": "lantern5",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/lantern5.svg"
+    },
+    {
+      "name": "magnet",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/magnet.svg"
+    },
+    {
+      "name": "map",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/map.svg"
+    },
+    {
+      "name": "medical_kit",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/medical-kit.svg"
+    },
+    {
+      "name": "mirror",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/mirror.svg"
+    },
+    {
+      "name": "missile",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/missile.svg"
+    },
+    {
+      "name": "nail",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/nail.svg"
+    },
+    {
+      "name": "nails",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/nails.svg"
+    },
+    {
+      "name": "paint_roller",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/paint-roller.svg"
+    },
+    {
+      "name": "petroleum",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/petroleum.svg"
+    },
+    {
+      "name": "pickaxe",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/pickaxe.svg"
+    },
+    {
+      "name": "pill",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/pill.svg"
+    },
+    {
+      "name": "pistol",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/pistol.svg"
+    },
+    {
+      "name": "potion",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/potion.svg"
+    },
+    {
+      "name": "potion2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/potion2.svg"
+    },
+    {
+      "name": "potion3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/potion3.svg"
+    },
+    {
+      "name": "pushpin",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/pushpin.svg"
+    },
+    {
+      "name": "radiation",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/radiation.svg"
+    },
+    {
+      "name": "rifle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/rifle.svg"
+    },
+    {
+      "name": "saw",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/saw.svg"
+    },
+    {
+      "name": "scissors",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/scissors.svg"
+    },
+    {
+      "name": "screwdriver",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/screwdriver.svg"
+    },
+    {
+      "name": "shield",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/shield.svg"
+    },
+    {
+      "name": "shield2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/shield2.svg"
+    },
+    {
+      "name": "shield3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/shield3.svg"
+    },
+    {
+      "name": "shovel",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/shovel.svg"
+    },
+    {
+      "name": "sickle",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/sickle.svg"
+    },
+    {
+      "name": "spear",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/spear.svg"
+    },
+    {
+      "name": "star_coin",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/star-coin.svg"
+    },
+    {
+      "name": "star_coin2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/star-coin2.svg"
+    },
+    {
+      "name": "stick",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/stick.svg"
+    },
+    {
+      "name": "sword",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/sword.svg"
+    },
+    {
+      "name": "sycee",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/sycee.svg"
+    },
+    {
+      "name": "toilet_sucker",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/toilet-sucker.svg"
+    },
+    {
+      "name": "tool_kit",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/tool-kit.svg"
+    },
+    {
+      "name": "torch",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/torch.svg"
+    },
+    {
+      "name": "trident",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/trident.svg"
+    },
+    {
+      "name": "wand",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/wand.svg"
+    },
+    {
+      "name": "wand2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/wand2.svg"
+    },
+    {
+      "name": "wand3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/wand3.svg"
+    },
+    {
+      "name": "wrench",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/6.Items/wrench.svg"
+    },
+    {
+      "name": "a_bottle_of_water",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/a-bottle-of-water.svg"
+    },
+    {
+      "name": "animal",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/animal.svg"
+    },
+    {
+      "name": "apple",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/apple.svg"
+    },
+    {
+      "name": "bamboo_shoots",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/bamboo-shoots.svg"
+    },
+    {
+      "name": "bamboo",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/bamboo.svg"
+    },
+    {
+      "name": "bread",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/bread.svg"
+    },
+    {
+      "name": "bread2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/bread2.svg"
+    },
+    {
+      "name": "bulrush",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/bulrush.svg"
+    },
+    {
+      "name": "cactus",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/cactus.svg"
+    },
+    {
+      "name": "carrot",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/carrot.svg"
+    },
+    {
+      "name": "cat",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/cat.svg"
+    },
+    {
+      "name": "cloud",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/cloud.svg"
+    },
+    {
+      "name": "cloudy",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/cloudy.svg"
+    },
+    {
+      "name": "clover",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/clover.svg"
+    },
+    {
+      "name": "cow",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/cow.svg"
+    },
+    {
+      "name": "dog",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/dog.svg"
+    },
+    {
+      "name": "fire",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/fire.svg"
+    },
+    {
+      "name": "fish",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/fish.svg"
+    },
+    {
+      "name": "fish2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/fish2.svg"
+    },
+    {
+      "name": "flower",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/flower.svg"
+    },
+    {
+      "name": "flower2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/flower2.svg"
+    },
+    {
+      "name": "flower3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/flower3.svg"
+    },
+    {
+      "name": "fog",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/fog.svg"
+    },
+    {
+      "name": "forest",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/forest.svg"
+    },
+    {
+      "name": "forest2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/forest2.svg"
+    },
+    {
+      "name": "forest3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/forest3.svg"
+    },
+    {
+      "name": "fox",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/fox.svg"
+    },
+    {
+      "name": "glass_of_water",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/glass-of-water.svg"
+    },
+    {
+      "name": "grass",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/grass.svg"
+    },
+    {
+      "name": "ham",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/ham.svg"
+    },
+    {
+      "name": "ham2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/ham2.svg"
+    },
+    {
+      "name": "jellyfish",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/jellyfish.svg"
+    },
+    {
+      "name": "leaves",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/leaves.svg"
+    },
+    {
+      "name": "lightning",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/lightning.svg"
+    },
+    {
+      "name": "meat_cooked",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/meat-cooked.svg"
+    },
+    {
+      "name": "meat",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/meat.svg"
+    },
+    {
+      "name": "meteor",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/meteor.svg"
+    },
+    {
+      "name": "mountain",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/mountain.svg"
+    },
+    {
+      "name": "night",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/night.svg"
+    },
+    {
+      "name": "peach",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/peach.svg"
+    },
+    {
+      "name": "pear",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/pear.svg"
+    },
+    {
+      "name": "pig",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/pig.svg"
+    },
+    {
+      "name": "potato",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/potato.svg"
+    },
+    {
+      "name": "rain",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/rain.svg"
+    },
+    {
+      "name": "rain2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/rain2.svg"
+    },
+    {
+      "name": "rainbow",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/rainbow.svg"
+    },
+    {
+      "name": "river",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/river.svg"
+    },
+    {
+      "name": "sea",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/sea.svg"
+    },
+    {
+      "name": "sheep",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/sheep.svg"
+    },
+    {
+      "name": "shrimp",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/shrimp.svg"
+    },
+    {
+      "name": "snowflake",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/snowflake.svg"
+    },
+    {
+      "name": "snowy",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/snowy.svg"
+    },
+    {
+      "name": "star",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/star.svg"
+    },
+    {
+      "name": "stone",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/stone.svg"
+    },
+    {
+      "name": "sun",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/sun.svg"
+    },
+    {
+      "name": "sun2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/sun2.svg"
+    },
+    {
+      "name": "temperature_down",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/temperature-down.svg"
+    },
+    {
+      "name": "temperature_down2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/temperature-down2.svg"
+    },
+    {
+      "name": "temperature_up",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/temperature-up.svg"
+    },
+    {
+      "name": "temperature_up2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/temperature-up2.svg"
+    },
+    {
+      "name": "temperature",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/temperature.svg"
+    },
+    {
+      "name": "thunderstorm",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/thunderstorm.svg"
+    },
+    {
+      "name": "tree",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/tree.svg"
+    },
+    {
+      "name": "tree2",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/tree2.svg"
+    },
+    {
+      "name": "tree3",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/tree3.svg"
+    },
+    {
+      "name": "tree4",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/tree4.svg"
+    },
+    {
+      "name": "water",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/water.svg"
+    },
+    {
+      "name": "wind",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/wind.svg"
+    },
+    {
+      "name": "wolf",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/wolf.svg"
+    },
+    {
+      "name": "wood",
+      "url": "https://raw.githubusercontent.com/Nieobie/Game-Icon-Pack/main/svg-v1.0.3/7.Nature%20%26%20Food/wood.svg"
+    }
+  ]
+}
